@@ -77,8 +77,8 @@ for (let i = 0; i < inventory.length; i++){
 //What is the make and model of the last car in the inventory? 
 //Log the make and model into the console.
 //let lastCar = 0;
-let lasCar = (inventory.length-1);
-console.log(inventory[lasCar]);
+let lastCar = (inventory.length-1);
+console.log(inventory[lastCar]);
 
 
 // ==== Challenge 3 ====
